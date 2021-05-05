@@ -3,10 +3,13 @@
 # ECG
 Classify various cardiovascular conditions as well as COVID-19 from Electrocardiogram (ECG) images[1]
 
-There also exists a kaggle pre-processed dataset for classifying arrythmias[2]. We may or may not need to process our data similar to the one on kaggle. We may add the data to this current analysis if feasible.
+There also exists a kaggle pre-processed dataset for classifying arrythmias[2]. We may or may not need to process our data similar to the one on kaggle. We may add the data to this current analysis if feasible. Here is the state-of-the-art arrythmia detection paper using the kaggle dataset co-authored by Andrew Ng [3]
 
 [1] [Link to article containing dataset](https://doi.org/10.1016/j.dib.2021.106762)
+
 [2] [Link to kaggle pre-processed dataset](https://www.kaggle.com/shayanfazeli/heartbeat)
+
+[3] [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/pdf/1707.01836.pdf)
 
 # For Collaborators
 Please work in separate branches and if you choose to work in main, push your latest additions/changes in your notebook into the playground directory only. The ECG.ipynb in the home diectory will be pushed after all changes are finalized from playground. Only git add playground/yournotebookname.ipynb (Do NOT do git add -A) before commiting and pushing your changes.
