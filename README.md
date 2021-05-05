@@ -7,7 +7,7 @@ There also exists a kaggle pre-processed dataset for classifying arrythmias[3]. 
 
 [1] [Link to article containing dataset](https://doi.org/10.1016/j.dib.2021.106762)
 
-[2] [Multi-Variable Model for Real-Time Prediction of Cardiovascular Complications in Hospitalized Patients with COVID-19](Real-Time Prediction of Cardiovascular Complications in Hospitalized Patients with COVID-19)
+[2] [Multi-Variable Model for Real-Time Prediction of Cardiovascular Complications in Hospitalized Patients with COVID-19](https://www.medrxiv.org/content/10.1101/2021.01.03.21249182v2)
 
 [3] [Link to kaggle pre-processed dataset](https://www.kaggle.com/shayanfazeli/heartbeat)
 
