@@ -552,7 +552,7 @@ def pred_prob_with_model(img_path, model, rescale=255, resize=(256, 256)):
         type(resize) == tuple and len(resize) == 2
     ), "Resize target must be a tuple with two elements"
 
-    img = load_img(img_path)
+    img = load_img(img_path,grayscale=True)
     img = img_to_array(img)
     img = img / float(rescale)
     img = cv2.resize(img, resize)
