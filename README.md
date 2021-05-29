@@ -22,6 +22,8 @@ https://bestecgclassifier.herokuapp.com/
 
 # Preprocessing
 
+![alt text]( https://github.com/hardikroutray/ECG/blob/main/app/images/data_prep1.png )
+
 # Approaches
 
 Time series classification using 1D CNN <br>
