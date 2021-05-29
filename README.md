@@ -14,7 +14,7 @@ There also exists a kaggle pre-processed dataset for classifying arrythmias[3]. 
 [4] [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/pdf/1707.01836.pdf)
 
 # Application
-(https://bestecgclassifier.herokuapp.com/)
+https://bestecgclassifier.herokuapp.com/
 
 
 
