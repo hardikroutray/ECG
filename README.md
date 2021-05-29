@@ -13,5 +13,8 @@ There also exists a kaggle pre-processed dataset for classifying arrythmias[3]. 
 
 [4] [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/pdf/1707.01836.pdf)
 
-# For Collaborators
-Please work in separate branches and if you choose to work in main, push your latest additions/changes in your notebook into the playground directory only. The ECG.ipynb in the home diectory will be pushed after all changes are finalized from playground. Only git add playground/yournotebookname.ipynb (Do NOT do git add -A) before commiting and pushing your changes.
+# Application
+(https://bestecgclassifier.herokuapp.com/)
+
+
+
