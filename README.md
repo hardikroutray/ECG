@@ -4,7 +4,7 @@
 
 # Links to model notebooks
 [2D CNN](https://colab.research.google.com/github/hardikroutray/ECG/blob/main/CNN2D_ECG.ipynb) 
-[1D CNN](https://github.com/hardikroutray/ECG/blob/main/Multi_lead_1dCNN.ipynb)
+[1D CNN](https://github.com/hardikroutray/ECG/blob/main/Multi_lead_1dCNN.ipynb) <br>
 [Random Forest] (https://github.com/hardikroutray/ECG/blob/main/Multi-Lead-DataFrame-Update-Copy1_0528.ipynb)
 [Misc] (https://github.com/hardikroutray/ECG/blob/main/Iftah_Classification%20Analysis_full_features.ipynb)
 
