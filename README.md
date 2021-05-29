@@ -15,7 +15,7 @@ https://bestecgclassifier.herokuapp.com/
 
 # Approaches
 
-Time series classification using 1D CNN
+Time series classification using 1D CNN <br>
 https://github.com/hardikroutray/ECG/blob/main/app/images/1d_CNN_vis.png
 
 
