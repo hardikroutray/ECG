@@ -24,7 +24,7 @@ https://bestecgclassifier.herokuapp.com/
 
 ![alt text]( https://github.com/hardikroutray/ECG/blob/main/app/images/data_prep1.png )
 
-# Approaches
+# Best Performance (95 % Accuracy)
 
 Time series classification using 1D CNN <br>
 ![alt text](https://github.com/hardikroutray/ECG/blob/main/app/images/1d_CNN_vis.png)
