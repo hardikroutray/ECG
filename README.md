@@ -4,7 +4,12 @@
 
 # Links to models
 [![2D CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hardikroutray/ECG/blob/main/CNN2D_ECG.ipynb)
-[![1D CNN](https://github.com/hardikroutray/ECG/blob/main/Multi_lead_1dCNN.ipynb)
+[![1D CNN] NAME: custom
+ICON: 'https://simpleicons.now.sh/counter-strike/e43'
+STATUS: 'Custom Icons'
+COLOR: red
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+](https://github.com/hardikroutray/ECG/blob/main/Multi_lead_1dCNN.ipynb)
 
 # ECG
 
