@@ -16,6 +16,6 @@ https://bestecgclassifier.herokuapp.com/
 # Approaches
 
 Time series classification using 1D CNN
-file:///Users/aithi/Desktop/Screen%20Shot%202021-05-29%20at%2012.48.50%20AM.png
+
 
 
