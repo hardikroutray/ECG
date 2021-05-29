@@ -2,9 +2,12 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://bestecgclassifier.herokuapp.com)
 
 
-# Links to models
-[![2D CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hardikroutray/ECG/blob/main/CNN2D_ECG.ipynb)
-[![1D CNN]](https://github.com/hardikroutray/ECG/blob/main/Multi_lead_1dCNN.ipynb)
+# Links to model notebooks
+[2D CNN](https://colab.research.google.com/github/hardikroutray/ECG/blob/main/CNN2D_ECG.ipynb) 
+[1D CNN](https://github.com/hardikroutray/ECG/blob/main/Multi_lead_1dCNN.ipynb)
+[Random Forest] (https://github.com/hardikroutray/ECG/blob/main/Multi-Lead-DataFrame-Update-Copy1_0528.ipynb)
+[Misc] (https://github.com/hardikroutray/ECG/blob/main/Iftah_Classification%20Analysis_full_features.ipynb)
+
 
 # ECG
 
