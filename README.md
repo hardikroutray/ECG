@@ -1,6 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://bestecgclassifier.herokuapp.com)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hardikroutray/ECG/blob/main/CNN2D_ECG.ipynb)
+
+
+# Links to models
+[![2D CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hardikroutray/ECG/blob/main/CNN2D_ECG.ipynb)
+[![1D CNN](https://github.com/hardikroutray/ECG/blob/main/Multi_lead_1dCNN.ipynb)
 
 # ECG
 
